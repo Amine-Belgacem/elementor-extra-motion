@@ -5,15 +5,13 @@ Elementor Extra Motion is a WordPress plugin that extends Elementor with additio
 ## Description
 
 This plugin adds a set of animated visual interactions to Elementor-based websites, including:
-
 - Entrance animations:
   - Blur in / blur out
   - Fade in up / right / left / down
   - Fade in forward / backward
-- Ken-Burns zoom effects for sections with configurable direction, duration, scale, loop, and overlay color
-- Vertical parallax motion with adjustable translate and scale factors plus animation duration
+- Ken-Burns zoom effects for sections with configurable parameters
+- Vertical parallax motion with adjustable parameters
 - Floating widget motion with configurable vertical distance and movement duration
-- Extra CSS and JavaScript support to make those effects run smoothly in the frontend
 
 ## Installation
 
